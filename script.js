@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             const convertedAmount=amount/rate*rates[BASE];
 
-            const expense = {
+            const expense={
                 amount,
                 category,
                 date,

@@ -1,32 +1,27 @@
-body {
+body{
     font-family: Arial, sans-serif;
     margin: 20px;
-    background: linear-gradient(to right,#edeaea,#6c6c6d);
+    background: linear-gradient(to right,#ca9191,#b4b4e7);
 }
-
-h1 {
+h1{
     color: #333;
 }
-
-form {
+form{
     max-width: 400px;
     margin: auto;
 }
-
-label {
+label{
     display: block;
     margin: 10px 0 5px;
 }
-
-input {
+input{
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-
-button {
+button{
     padding: 10px 20px;
     background-color: #28a745;
     color: white;
@@ -34,29 +29,25 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
-
-button:hover {
+button:hover{
     background-color: #218838;
 }
-
-nav {
+nav{
     background-color: #333;
     color: white;
     padding: 10px;
 }
-
-nav ul {
+nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
-
-nav ul li {
+nav ul li{
     float: left;
 }
 
-nav ul li a {
+nav ul li a{
     display: block;
     color: white;
     text-align: center;
@@ -64,6 +55,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-nav ul li a:hover {
+nav ul li a:hover{
     background-color: #111;
 }
